@@ -17,7 +17,7 @@ let allMusic = [
     src: "music-1"
   },
   {
-    name: "Choolamadichu Karanginadakkum",
+    name: "Choolamadichu",
     artist: "Cover song - 2",
     img: "music-2",
     src: "music-2"
